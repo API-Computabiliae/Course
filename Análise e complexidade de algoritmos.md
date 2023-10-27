@@ -1,4 +1,15 @@
-**About the README Files**
+**About the Project Read PDF Files**
+
+**Students**
+
+Athos Willian Oliveira de Almeida 
+Carlos Eduardo Lessa de Lima
+Leonardo de Alcantara Salvador Silva
+Rayssa Paiva Carvalho
+Thallys Xavier Alves Ferreira
+Victor Emanuel Fernandes Queiroz
+
+
 
 # Introduction
 
